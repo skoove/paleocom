@@ -1,0 +1,5 @@
+# paleocom
+
+TUI (terminal user interface) for EVE Online.
+
+Work in progress.
